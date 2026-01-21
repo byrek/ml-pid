@@ -1,3 +1,4 @@
+.gitignore
 inne/
 mlruns/
 models/
