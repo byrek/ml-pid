@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/home/byrek/venv/bin/python",
+  "python.terminal.activateEnvironment": true
+}
