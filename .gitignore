@@ -2,3 +2,4 @@ inne/
 mlruns/
 models/
 mlflow.db
+.vscode/
