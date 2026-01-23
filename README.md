@@ -4,5 +4,7 @@ The complete set of articles is available at: https://hardwarehax.com/posts/pid-
 
 
 sample-recorder.py  - recording samples from USART to file
+
+
 LinearTorch.py      - training models on pre-recorded data
 
