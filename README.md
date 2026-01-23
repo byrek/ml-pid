@@ -3,8 +3,8 @@ This repository was created while writing a series of articles demonstrating the
 The complete set of articles is available at: https://hardwarehax.com/posts/pid-vs-ml-part1/
 
 
-sample-recorder.py  - recording samples from USART to file
-
-
-LinearTorch.py      - training models on pre-recorded data
+| File | Purpose|
+|----|------
+|sample-recorder.py| Recording samples from USART to a file|
+|LinearTorch.py| ML training script on pre-recorded data|
 
