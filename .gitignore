@@ -4,3 +4,5 @@ mlruns/
 models/
 mlflow.db
 .vscode/
+pid.onnx
+onnx_downgrader.py
